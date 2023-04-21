@@ -9,8 +9,7 @@ class Solution {
         if(ch == 'M') return 1000;
         return -1;
     }
-    XL
-    LX
+    
     public int romanToInt(String s) {
         
         int sum = 0;
