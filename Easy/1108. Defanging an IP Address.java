@@ -14,6 +14,7 @@ class Solution {
 }
 
 
+
 //Using Replace Function
 class Solution {
     public String defangIPaddr(String address) {
